@@ -1,5 +1,9 @@
 # Justificación del caso Epstein como caso de estudio
 
+- Laura Sophia Hernández
+- Maria Belén Peña
+- Natalia Moreno
+
 **Propuesta:** Se propone el caso Jeffrey Epstein como caso de estudio para la *Guía para el despliegue de un servicio de análisis forense digital*. La razón es su valor metodológico. El caso reúne, en un solo expediente público y documentado, casi todas las fases y problemas que un servicio forense digital debe saber gestionar.
 
 ## 1. Volumen y diversidad de la evidencia digital
